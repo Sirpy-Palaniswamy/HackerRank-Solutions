@@ -1,6 +1,6 @@
 #Problem
 """
-ABCXYZ company has up to 1000 employees.
+ABCXYZ company has up to 100 employees.
 The company decides to create a unique identification number (UID) for each of its employees.
 The company has assigned you the task of validating all the randomly generated UIDs.
 
