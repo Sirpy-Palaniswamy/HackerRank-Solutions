@@ -1,6 +1,7 @@
 #Problem
 """
-You are given two integer arrays of size N X P and M X P (N & M are rows, and P is the column). Your task is to concatenate the arrays along axis 0.
+You are given two integer arrays of size N X P and M X P (N & M are rows, and P is the column).
+Your task is to concatenate the arrays along axis 0.
 """
 
 #Code
